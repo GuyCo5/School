@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">School</string>
-    <string name="barazanySchool">"בית הספר\nע\"ש אבנר ברזני"</string>
-    <string name="avnerBarazany">"אבנר ברזני\n מי האיש"</string>
+    <string name="school">"בית הספר"</string>
+    <string name="avnerBarazany">"ע\"ש אבנר ברזני"</string>
+    <string name="whoIsAvnerBarazany">"אבנר ברזני\n מי האיש"</string>
 
     <string name="phoneBook">ספר טלפונים</string>
     <string name="eventPlan">תוכנית אירועים</string>
@@ -10,5 +11,7 @@
     <string name="sendToParents">פניה לנציגות הורים</string>
     <string name="sendToManagement">פניה למנהלת</string>
     <string name="sendToNoonCare">פניה לצהרונים</string>
+    <string name="settings">הגדרות</string>
+    <string name="feedback">משוב</string>
 
 </resources>
