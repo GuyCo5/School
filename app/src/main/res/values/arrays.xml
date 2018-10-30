@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes">
+        <item>גן</item>
+        <item>א1</item>
+        <item>א2</item>
+        <item>א3</item>
+        <item>א4</item>
+        <item>ב1</item>
+        <item>ב2</item>
+        <item>ג1</item>
+        <item>ג2</item>
+    </string-array>
+    <string-array name="phoneSelect">
+        <item>תלמיד</item>
+        <item>מורה</item>
+        <item>צהרון</item>
+    </string-array>
+</resources>

@@ -40,7 +40,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void clickPhoneBook(View view) {
-        startIntent(LINK_PHONEBOOK);
+        Intent i= new Intent(this, PhoneBookActivity.class);
+        startActivity(i);
+        // startIntent(LINK_PHONEBOOK);
     }
 
     public void clickWhoIs(View view) {
@@ -75,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testToast (){
-        String text = "not working yet";
+        String text = "Not Working Yet...";
         Toast toast = Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT);
         toast.show();
     }
